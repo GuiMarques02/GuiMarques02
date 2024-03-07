@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sftenglm@gmail.com**
 
-- ⚡ Fun facts about me **My**
+- ⚡ Fun facts about me **My favorite thing in this world is sports **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
