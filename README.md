@@ -12,8 +12,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Junior Data Engineer  
-- 📊 Passionate about data, databases, cloud technologies, and backend development  
-- ☁️ Learning and working with Azure, Google Cloud, SQL, and Python  
+- 📊 Passionate about data, databases & cloud technologies
+- ☁️ Learning and working with Databricks, Azure, SQL and Python  
 - 🧠 Always improving my skills in data engineering, analytics, and software development  
 
 ---
@@ -37,7 +37,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,git,azure,gcp,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,azure,gcp,mysql,postgres,git" />
 </p>
 
 <p align="left">
@@ -82,4 +82,3 @@ Data Engineering
 SQL Optimization
 Python for Data
 Cloud Platforms
-Backend Development
